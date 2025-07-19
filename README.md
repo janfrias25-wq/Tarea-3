@@ -6,5 +6,5 @@ Los polígonos
 
 https://youtu.be/7s0ecmi7zTA?feature=shared
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcatDhOtuMg?si=KFkh-Skx4EmndKlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/bcatDhOtuMg?si=xzuTLfjBDX3mUEnc 
 
